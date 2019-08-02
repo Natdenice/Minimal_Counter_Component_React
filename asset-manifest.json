@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Minimal_Counter_Component_React/static/js/main.ee370c06.chunk.js",
+    "main.js.map": "/Minimal_Counter_Component_React/static/js/main.ee370c06.chunk.js.map",
+    "runtime~main.js": "/Minimal_Counter_Component_React/static/js/runtime~main.fe61f0c4.js",
+    "runtime~main.js.map": "/Minimal_Counter_Component_React/static/js/runtime~main.fe61f0c4.js.map",
+    "static/css/2.a761f721.chunk.css": "/Minimal_Counter_Component_React/static/css/2.a761f721.chunk.css",
+    "static/js/2.363c87ae.chunk.js": "/Minimal_Counter_Component_React/static/js/2.363c87ae.chunk.js",
+    "static/js/2.363c87ae.chunk.js.map": "/Minimal_Counter_Component_React/static/js/2.363c87ae.chunk.js.map",
+    "index.html": "/Minimal_Counter_Component_React/index.html",
+    "precache-manifest.b5af5d143578dea0c40429feca0a617d.js": "/Minimal_Counter_Component_React/precache-manifest.b5af5d143578dea0c40429feca0a617d.js",
+    "service-worker.js": "/Minimal_Counter_Component_React/service-worker.js",
+    "static/css/2.a761f721.chunk.css.map": "/Minimal_Counter_Component_React/static/css/2.a761f721.chunk.css.map",
+    "static/media/semantic.min.css": "/Minimal_Counter_Component_React/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
